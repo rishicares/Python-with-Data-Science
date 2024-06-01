@@ -1,9 +1,6 @@
-.gitignore
-
 # Python
 *.pyc
 __pycache__/
-venv/
 *.env
 
 # IDE
@@ -30,6 +27,7 @@ venv/
 .DS_Store
 Thumbs.db
 
+#venv
 pyvenv.cfg
 Lib
 Include
