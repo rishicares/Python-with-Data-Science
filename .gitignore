@@ -1,3 +1,5 @@
+.gitignore
+
 # Python
 *.pyc
 __pycache__/
@@ -32,6 +34,3 @@ pyvenv.cfg
 Lib
 Include
 Scripts
-
-.gitignore
-
