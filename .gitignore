@@ -1,0 +1,35 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+# Compiled files
+*.pyo
+*.pyd
+*.pyc
+*.pyz
+*.pyw
+*.pyz
+*.pyw
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+pyvenv.cfg
+Lib
+Include
+Scripts
+
