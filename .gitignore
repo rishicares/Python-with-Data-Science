@@ -32,3 +32,5 @@ pyvenv.cfg
 Lib
 Include
 Scripts
+
+share/
