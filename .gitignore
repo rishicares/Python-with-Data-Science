@@ -33,4 +33,7 @@ Lib
 Include
 Scripts
 
+# Share
 share/
+
+etc/
