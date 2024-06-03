@@ -20,6 +20,9 @@ __pycache__/
 *.so
 *.dylib
 
+# Share
+share
+etc
 # Logs
 *.log
 
@@ -32,8 +35,3 @@ pyvenv.cfg
 Lib
 Include
 Scripts
-
-# Share
-share/
-
-etc/
